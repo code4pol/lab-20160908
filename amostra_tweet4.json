@@ -1,0 +1,86 @@
+{
+  "created_at": "Tue Dec 15 03:50:34 +0000 2015",
+  "id": 676610271398469632,
+  "id_str": "676610271398469632",
+  "text": "E essa  pesquisa de 93% contra a Dilma foi feita em que hotel msm hein? Povo melhorem. O ato de domingo só prova. #FicaDilma #NaoVaiTerGolpe",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4417700248,
+    "id_str": "4417700248",
+    "name": "Matteus Holanda",
+    "screen_name": "matteus_holanda",
+    "location": "Benfica, Fortaleza",
+    "url": null,
+    "description": null,
+    "protected": false,
+    "verified": false,
+    "followers_count": 4,
+    "friends_count": 62,
+    "listed_count": 0,
+    "favourites_count": 11,
+    "statuses_count": 33,
+    "created_at": "Tue Dec 08 16:51:36 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/674273211547303937/IKduCwJu_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/674273211547303937/IKduCwJu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4417700248/1449594234",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FicaDilma",
+        "indices": [
+          114,
+          124
+        ]
+      },
+      {
+        "text": "NaoVaiTerGolpe",
+        "indices": [
+          125,
+          140
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1450151434169"
+}

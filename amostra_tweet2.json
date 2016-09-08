@@ -1,0 +1,93 @@
+{
+  "created_at": "Tue Dec 15 03:13:47 +0000 2015",
+  "id": 676601017283289089,
+  "id_str": "676601017283289089",
+  "text": "Grita forte brasileiro ê ê ê \r\r#FICADILMA\r#FICALULA\r#FICAPT",
+  "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 181621676,
+    "id_str": "181621676",
+    "name": "Fernando Santana",
+    "screen_name": "fernandoolisant",
+    "location": "Budapeste",
+    "url": null,
+    "description": "Tentando viver uma vida sem remodimentos. Torcedor do Tricolor mais querido do Brasilllllllllllll !!!! SCFC (L)",
+    "protected": false,
+    "verified": false,
+    "followers_count": 192,
+    "friends_count": 495,
+    "listed_count": 18,
+    "favourites_count": 398,
+    "statuses_count": 11325,
+    "created_at": "Sun Aug 22 17:22:51 +0000 2010",
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": false,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000105",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/268695463/preto_2_.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/268695463/preto_2_.jpg",
+    "profile_background_tile": false,
+    "profile_link_color": "000305",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FCFCFC",
+    "profile_text_color": "F71F03",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/654053610163171329/qr_dMuPI_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/654053610163171329/qr_dMuPI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/181621676/1356068700",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FICADILMA",
+        "indices": [
+          31,
+          41
+        ]
+      },
+      {
+        "text": "FICALULA",
+        "indices": [
+          42,
+          51
+        ]
+      },
+      {
+        "text": "FICAPT",
+        "indices": [
+          52,
+          59
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1450149227816"
+}

@@ -1,0 +1,180 @@
+{
+  "created_at": "Thu Dec 17 00:02:18 +0000 2015",
+  "id": 677277602365730817,
+  "id_str": "677277602365730817",
+  "text": "E os Coxinha de SP..em especial da paulista, sentiram a força da esquerda! Ficaram vermelhos de ódio! https://t.co/j6cmO2GM13",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3380908317,
+    "id_str": "3380908317",
+    "name": "@kellkeke",
+    "screen_name": "quesiaandrades1",
+    "location": "São Paulo, Brasil",
+    "url": null,
+    "description": "Paulista,Esquerdista,Patriota..Apaixonada pelas políticas sociais do meu país..",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1369,
+    "friends_count": 1898,
+    "listed_count": 6,
+    "favourites_count": 7796,
+    "statuses_count": 3772,
+    "created_at": "Fri Jul 17 22:24:45 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/671035477433131008/Oy_VDhso_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/671035477433131008/Oy_VDhso_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3380908317/1446161381",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "quoted_status_id": 677218662823141377,
+  "quoted_status_id_str": "677218662823141377",
+  "quoted_status": {
+    "created_at": "Wed Dec 16 20:08:05 +0000 2015",
+    "id": 677218662823141377,
+    "id_str": "677218662823141377",
+    "text": "Pro-Dilma demonstration, Avenida Paulista, preparing to move off... #SaoPaulo #FicaDilma https://t.co/n53wPEexmf",
+    "source": "<a href=\"http://vine.co\" rel=\"nofollow\">Vine - Make a Scene</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14014612,
+      "id_str": "14014612",
+      "name": "Claire Rigby",
+      "screen_name": "claire_rigby",
+      "location": "São Paulo, Brazil",
+      "url": "http://clairerigby.flavors.me/",
+      "description": "Freelance journalist, writer & editor ★ LA Times, Guardian, Vice News, Art Review, Monocle 24 ✰ Former ed. Time Out São Paulo, Buenos Aires ★ São Paulo, Brazil",
+      "protected": false,
+      "verified": false,
+      "followers_count": 2354,
+      "friends_count": 2483,
+      "listed_count": 142,
+      "favourites_count": 2681,
+      "statuses_count": 2703,
+      "created_at": "Tue Feb 26 17:21:40 +0000 2008",
+      "utc_offset": -7200,
+      "time_zone": "Brasilia",
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5EAD5",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/579607603/x51f8acd8d0d43c3c7375def74d265cc.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/579607603/x51f8acd8d0d43c3c7375def74d265cc.png",
+      "profile_background_tile": true,
+      "profile_link_color": "3041A1",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "46646F",
+      "profile_text_color": "3CB8AD",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/495936196145471488/rqSpExX__normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/495936196145471488/rqSpExX__normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14014612/1427856512",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SaoPaulo",
+          "indices": [
+            68,
+            77
+          ]
+        },
+        {
+          "text": "FicaDilma",
+          "indices": [
+            78,
+            88
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/n53wPEexmf",
+          "expanded_url": "https://vine.co/v/imwYWjhLxzw",
+          "display_url": "vine.co/v/imwYWjhLxzw",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt"
+  },
+  "is_quote_status": true,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/j6cmO2GM13",
+        "expanded_url": "https://twitter.com/claire_rigby/status/677218662823141377",
+        "display_url": "twitter.com/claire_rigby/s…",
+        "indices": [
+          102,
+          125
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1450310538270"
+}

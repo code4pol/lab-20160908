@@ -1,0 +1,361 @@
+{
+  "created_at": "Tue Dec 15 02:59:44 +0000 2015",
+  "id": 676597482013487104,
+  "id_str": "676597482013487104",
+  "text": "RT @BetinhoJose_Rec: Parabéns presidenta @dilmabr! #FicaDilma mais seja firme com a força da mulher guerreira que a senhora é!  https://t.c…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 861617935,
+    "id_str": "861617935",
+    "name": "Dursilvanribeiro",
+    "screen_name": "Dudurrauer",
+    "location": null,
+    "url": null,
+    "description": null,
+    "protected": false,
+    "verified": false,
+    "followers_count": 367,
+    "friends_count": 709,
+    "listed_count": 0,
+    "favourites_count": 6,
+    "statuses_count": 708,
+    "created_at": "Thu Oct 04 15:53:21 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2681381838/37fcfa873468f095360694222e3df899_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2681381838/37fcfa873468f095360694222e3df899_normal.jpeg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Dec 14 16:37:27 +0000 2015",
+    "id": 676440878446153728,
+    "id_str": "676440878446153728",
+    "text": "Parabéns presidenta @dilmabr! #FicaDilma mais seja firme com a força da mulher guerreira que a senhora é!  https://t.co/nTdIgJMCqT",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1467660972,
+      "id_str": "1467660972",
+      "name": "BETINHO JOSÉ",
+      "screen_name": "BetinhoJose_Rec",
+      "location": "Recife - Pernambuco",
+      "url": "https://www.facebook.com/pages/Betinho-Jos%C3%A9/552364058251241?fref=ts#",
+      "description": "Sou educador social, blogueiro, radialista, profissional de rádio e TV",
+      "protected": false,
+      "verified": false,
+      "followers_count": 447,
+      "friends_count": 1973,
+      "listed_count": 3,
+      "favourites_count": 450,
+      "statuses_count": 5496,
+      "created_at": "Wed May 29 16:27:56 +0000 2013",
+      "utc_offset": -7200,
+      "time_zone": "Brasilia",
+      "geo_enabled": true,
+      "lang": "pt",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/676458441288871937/HsPqvwr3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/676458441288871937/HsPqvwr3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1467660972/1446509862",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 676403905891344385,
+    "quoted_status_id_str": "676403905891344385",
+    "quoted_status": {
+      "created_at": "Mon Dec 14 14:10:32 +0000 2015",
+      "id": 676403905891344385,
+      "id_str": "676403905891344385",
+      "text": "(A) Feliz aniversário, presidenta! Que este coração valente continue lutando pela democracia e pelo Brasil. Q honra! https://t.co/wx659Rc0po",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 51064768,
+        "id_str": "51064768",
+        "name": "Fátima Bezerra",
+        "screen_name": "Fatima_Bezerra",
+        "location": "Rio Grande do Norte",
+        "url": "http://www.fatimabezerra.com.br",
+        "description": "Fátima é professora e senadora eleita em 2014 com 808.055 votos no RN.",
+        "protected": false,
+        "verified": false,
+        "followers_count": 49982,
+        "friends_count": 1047,
+        "listed_count": 385,
+        "favourites_count": 698,
+        "statuses_count": 40217,
+        "created_at": "Fri Jun 26 13:51:32 +0000 2009",
+        "utc_offset": -7200,
+        "time_zone": "Brasilia",
+        "geo_enabled": true,
+        "lang": "pt",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FCFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/489137936269447168/wrgvbWBc.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/489137936269447168/wrgvbWBc.png",
+        "profile_background_tile": true,
+        "profile_link_color": "B3002D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFCCDF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/520948025435230209/Hi20Any4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/520948025435230209/Hi20Any4_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51064768/1450108382",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 676403904230375425,
+            "id_str": "676403904230375425",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CWMRxGRWwAEBicv.png",
+            "media_url_https": "https://pbs.twimg.com/media/CWMRxGRWwAEBicv.png",
+            "url": "https://t.co/wx659Rc0po",
+            "display_url": "pic.twitter.com/wx659Rc0po",
+            "expanded_url": "http://twitter.com/Fatima_Bezerra/status/676403905891344385/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 676403904230375425,
+            "id_str": "676403904230375425",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CWMRxGRWwAEBicv.png",
+            "media_url_https": "https://pbs.twimg.com/media/CWMRxGRWwAEBicv.png",
+            "url": "https://t.co/wx659Rc0po",
+            "display_url": "pic.twitter.com/wx659Rc0po",
+            "expanded_url": "http://twitter.com/Fatima_Bezerra/status/676403905891344385/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "pt"
+    },
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FicaDilma",
+          "indices": [
+            30,
+            40
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nTdIgJMCqT",
+          "expanded_url": "https://twitter.com/Fatima_Bezerra/status/676403905891344385",
+          "display_url": "twitter.com/Fatima_Bezerra…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dilmabr",
+          "name": "Dilma Rousseff",
+          "id": 131574396,
+          "id_str": "131574396",
+          "indices": [
+            20,
+            28
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt"
+  },
+  "is_quote_status": true,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FicaDilma",
+        "indices": [
+          51,
+          61
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/nTdIgJMCqT",
+        "expanded_url": "https://twitter.com/Fatima_Bezerra/status/676403905891344385",
+        "display_url": "twitter.com/Fatima_Bezerra…",
+        "indices": [
+          139,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "BetinhoJose_Rec",
+        "name": "BETINHO JOSÉ",
+        "id": 1467660972,
+        "id_str": "1467660972",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "dilmabr",
+        "name": "Dilma Rousseff",
+        "id": 131574396,
+        "id_str": "131574396",
+        "indices": [
+          41,
+          49
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1450148384942"
+}
